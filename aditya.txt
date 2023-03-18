@@ -1,0 +1,3 @@
+this is second file to add 
+
+we have to crete a git project
